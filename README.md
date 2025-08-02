@@ -14,7 +14,7 @@ Financial institutions often lack real-time visibility into credit card operatio
 ## Process Breakdown  
 
 ### 1. SQL Database Setup & Data Ingestion  
-- Designed a PostgreSQL database named `ccdb` with separate tables for transactional data and customer demographics.  
+- Designed a MySQL database named `ccdb` with separate tables for transactional data and customer demographics.  
 - Imported raw CSV files into respective tables, resolved date format inconsistencies, and appended Week 53 data for a complete year-to-date (YTD) view.
 
 ### 2. Data Modeling & Metric Calculations (Power BI)  
