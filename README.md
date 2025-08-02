@@ -1,7 +1,7 @@
 # Credit-Card-Financial-Dashboard
 
 ## Problem Statement  
-This project addresses the need for real-time monitoring of credit card operations through the development of a dynamic financial dashboard. Traditional reporting tools often fall short in tracking revenue fluctuations, customer demographics, delinquency risks, and transactional trends. The dashboard solves this challenge by providing a comprehensive weekly overview, helping financial institutions make data-driven decisions, identify high-performing segments, and uncover growth opportunities.
+Financial institutions often lack real-time visibility into credit card operations, limiting their ability to monitor revenue performance, track delinquency risks, and identify growth opportunities. Traditional static reports are insufficient for analyzing customer segmentation, income-based trends, and geographic contribution at a granular level. This project addresses these challenges by developing a dynamic Power BI dashboard that integrates SQL-driven data processing with weekly performance metrics. It empowers stakeholders to make data-driven decisions, detect high-value customer segments, and mitigate financial risks across a nationwide portfolio.
 
 ## Tools Used  
 - Power BI – Dashboard creation, KPI modeling, and visual analytics  
